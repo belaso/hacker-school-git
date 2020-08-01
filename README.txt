@@ -1,7 +1,1 @@
-Hacker School!!!
-jblkdjfghd
-
-
-sdfgdjsfhgkjdfsk
-
-dfgksdfklgjösd
+Hacker School!
