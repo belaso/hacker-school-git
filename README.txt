@@ -1,2 +1,3 @@
 Hacker School!
-ÄNDERUNG AUF COMMIT
+
+Wir arbeiten gemeinsam an einem Projekt.
